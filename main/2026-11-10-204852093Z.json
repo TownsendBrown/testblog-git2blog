@@ -1,0 +1,9 @@
+{
+  "body" : "Hello, this is a test post.",
+  "date" : "2026-11-10T20:48:52Z",
+  "links" : [
+    "https://example.com/"
+  ],
+  "paper" : "papers/2026-11-10-204852093Z.md",
+  "title" : "Test Post"
+}
